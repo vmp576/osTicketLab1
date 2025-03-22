@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# Installing osTicket - Prerequisites and Installation (Lab 1)
+# osTicket - Prerequisites and Installation (Lab 1)
 
 This project is the installation of osTicket. It starts from the “Basic” installation of a virtual machine conducted via the “Installing Virtual Machines in VMware” lab.
 
