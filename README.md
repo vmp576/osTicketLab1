@@ -130,8 +130,8 @@ Now, Continue the osTicket Installer setup. Configure the Basic Installation wit
 - Admin Username: adminuser
 - Admin Password: Password123!
 - MySQL Database: osTicket
-- MySQL Username: Root
-- MySQL Password: Root
+- MySQL Username: root
+- MySQL Password: root
 
 <img src="https://i.imgur.com/DJhDKR5.png" height="70%" width="70%"/>
 
